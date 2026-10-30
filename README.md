@@ -2,7 +2,7 @@
 
 ## Project link
 
-https://elamed2007.github.io/Dividing-the-group/
+https://mohammed-laabidi.github.io/Dividing-the-group/
 
 ## Description
 
